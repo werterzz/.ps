@@ -1,0 +1,1 @@
+cp .\data.csv $env:USERPROFILE\Powershell\resources\
